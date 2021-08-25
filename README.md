@@ -4,4 +4,5 @@ clustering protein folding trajectories.
 The code is mostly modified from the following source:
 
 https://github.com/jariasf/GMVAE
+
 https://github.com/psanch21/VAE-GMVAE
