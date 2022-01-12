@@ -9,9 +9,8 @@ https://github.com/jariasf/GMVAE
 https://github.com/psanch21/VAE-GMVAE
 
 
+# cite 
 if you use this code please cite the following paper:
-
-#d
 
 @article{ghorbani2021variational,
   title={Variational embedding of protein folding simulations using Gaussian mixture variational autoencoders},
